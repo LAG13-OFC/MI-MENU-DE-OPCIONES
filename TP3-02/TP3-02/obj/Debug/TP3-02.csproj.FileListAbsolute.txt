@@ -1,0 +1,8 @@
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\bin\Debug\TP3-02.exe.config
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\bin\Debug\TP3-02.exe
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\bin\Debug\TP3-02.pdb
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\obj\Debug\TP3-02.csproj.AssemblyReference.cache
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\obj\Debug\TP3-02.csproj.SuggestedBindingRedirects.cache
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\obj\Debug\TP3-02.csproj.CoreCompileInputs.cache
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\obj\Debug\TP3-02.exe
+E:\AlgoritmoYEstructuraDeDatos\TPs\Programas\TP03-Programs\TP3-02\TP3-02\obj\Debug\TP3-02.pdb
