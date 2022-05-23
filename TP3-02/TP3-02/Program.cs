@@ -196,38 +196,38 @@ namespace TP3_02
                                     {
                                       
                                         Dia = 8 * OpCo;
-                                        Console.WriteLine($"Ganas un total de ${Dia} por dia laburando 8 horas diariamente");
-                                        Console.Write("\n\nEnter para volver al Menu Pincipal.....");
+                                        Console.WriteLine($" Ganas un total de ${Dia} por dia laburando 8 horas diariamente");
+                                        Console.Write("\n\n Enter para volver al Menu Pincipal.....");
                                         
                                         break;
                                     }
                                 case 2:
                                     {
                                         Dia = (8 * 5) * OpCo;
-                                        Console.WriteLine($"Ganas un total de ${Dia} por semana laburando 8 horas diarias durante una semana");
+                                        Console.WriteLine($" Ganas un total de ${Dia} por semana laburando 8 horas diarias durante una semana");
                                         Console.Write("\n\n Enter para volver al Menu Pincipal.....");
                                         break;
                                     }
                                 case 3:
                                     {
                                         Dia = (8 * 10) * OpCo;
-                                        Console.WriteLine($"Ganas un total de ${Dia} por dia quincena laburando 8 horas diarias durante una semana");
+                                        Console.WriteLine($" Ganas un total de ${Dia} por dia quincena laburando 8 horas diarias durante una semana");
                                         Console.Write("\n\n Enter para volver al Menu Pincipal.....");
                                         break;
                                     }
                                 case 4:
                                     {
                                         Dia = (8 * 20) * OpCo;
-                                        Console.WriteLine($"Ganas un total de ${Dia} por mes laburando 8 horas diarias durante una quincena");
+                                        Console.WriteLine($" Ganas un total de ${Dia} por mes laburando 8 horas diarias durante una quincena");
                                         Console.Write("\n\n Enter para volver al Menu Pincipal.....");
                                         break;
                                     }
                                 case 5:
                                     {
-                                        Console.Write("Ingrese la cantidad de horas que laburaste durante un determinado tiempo: ");
+                                        Console.Write(" Ingrese la cantidad de horas que laburaste durante un determinado tiempo: ");
                                         Horas = int.Parse(Console.ReadLine());
                                         Resultado = OpCo * Horas;
-                                        Console.WriteLine($"Ganaste un total de ${Resultado} durante {Horas} horas");
+                                        Console.WriteLine($" Ganaste un total de ${Resultado} durante {Horas} horas");
                                         Console.Write("\n\n Enter para volver al Menu Pincipal.....");
                                         break;
                                     }
@@ -315,8 +315,7 @@ namespace TP3_02
                                                     break;
                                                 }
                                             
-                                   
-
+                        
                                                    
                                         }
 
